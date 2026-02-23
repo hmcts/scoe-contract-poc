@@ -1,4 +1,6 @@
 rules:
 - claimant: claimant_name
+- claimantIndType: claimant_type
 - caseType: case_type
-- caseFlags.details[0].value: details
+- respondent: respondent_name
+
