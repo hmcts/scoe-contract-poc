@@ -1,3 +1,4 @@
 rules:
 - claimant: claimant_name
 - caseType: case_type
+- caseFlags.details[0].value: details
